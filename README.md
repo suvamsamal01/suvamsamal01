@@ -1,6 +1,7 @@
 # 💫 About Me:
-I’m currently learning on Python, AI & Web development<br>I’m looking to collaborate on beginner-friendly projects<br>I’m  currently building AI projects
-
+- 🌱 I’m currently learning Python, AI and Web Development
+- 🚀 I’m currently building AI Projects
+- 🤝 I’m looking to collaborate on beginner-friendly projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/subham._samal._?igsh=MWtvcWMydGxyamttNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suvam-samal-142b7233a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:240301120465@centurionuniv.edu.in) 
